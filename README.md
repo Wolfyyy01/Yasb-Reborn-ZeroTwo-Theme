@@ -1,6 +1,6 @@
 # 💫 Zero Two Theme for YASB
 
-A sleek and vibrant **Zero Two–inspired** theme for [YASB](https://github.com/AGuyNamedRiley/YASB), featuring glowing pink tones, soft gradients, smooth animations, and a futuristic anime aesthetic.  
+A sleek and vibrant **Zero Two–inspired** theme for [YASB](https://github.com/amnweb/YASB), featuring glowing pink tones, soft gradients, smooth animations, and a futuristic anime aesthetic.  
 Designed for users who want their Windows bar to *feel alive* — elegant, expressive, and just a little bit chaotic ❤️‍🔥
 
 ---
