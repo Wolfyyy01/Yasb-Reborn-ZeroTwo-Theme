@@ -90,4 +90,3 @@ Feel free to modify and redistribute, but please keep a small credit to the orig
 
 > “You’re my darling, and my bar is now aesthetic.” — Zero Two 💋
 
-```
