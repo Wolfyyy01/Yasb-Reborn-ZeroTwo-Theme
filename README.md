@@ -70,8 +70,10 @@ Minimal and nice audio visualizer.
 
 ## 💖 Screenshots
 
-![Media Widget Preview](./screenshots/media.png)
-![Power Menu Preview](./screenshots/power.png)
+![Desktop](./images/full.png)
+![Media Widget Preview](./images/media.png)
+![Power Menu Preview](./images/power.png)
+![Bar](./images/bar.png)
 
 ## 🌸 Credits
 
