@@ -78,7 +78,7 @@ Minimal and nice audio visualizer.
 ## 🌸 Credits
 
 * Theme Design & CSS: **Wolfy01**
-* Base framework: [YASB by AGuyNamedRiley](https://github.com/amnweb/yasb)
+* Base framework: [YASB by amnweb](https://github.com/amnweb/yasb)
 * Inspired by **Zero Two** from *Darling in the FranXX* 💞
 
 ---
